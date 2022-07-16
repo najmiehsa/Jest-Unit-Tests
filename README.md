@@ -1,2 +1,1 @@
-# Jest-Unit-Tests
-# React testing library 
+# Jest-Unit-Tests and React testing library project.
